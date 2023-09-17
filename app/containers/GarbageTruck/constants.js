@@ -1,0 +1,38 @@
+import { REDUX_KEY } from '../../utils/constants';
+
+export const RESET_REDUX = `${REDUX_KEY.garbageTruck}/RESET_REDUX`;
+
+export const GET_LIST_GARBAGETRUCK = `${
+  REDUX_KEY.garbageTruck
+}/GET_LIST_GARBAGETRUCK`;
+export const GET_LIST_GARBAGETRUCK_SUCCESS = `${
+  REDUX_KEY.garbageTruck
+}/GET_LIST_GARBAGETRUCK_SUCCESS`;
+
+export const GET_DETAIL_GARBAGETRUCK = `${
+  REDUX_KEY.garbageTruck
+}/GET_DETAIL_GARBAGETRUCK`;
+export const GET_DETAIL_GARBAGETRUCK_SUCCESS = `${
+  REDUX_KEY.garbageTruck
+}/GET_DETAIL_GARBAGETRUCK_SUCCESS`;
+
+export const ADD_GARBAGETRUCK = `${REDUX_KEY.garbageTruck}/ADD_GARBAGETRUCK`;
+export const ADD_GARBAGETRUCK_SUCCESS = `${
+  REDUX_KEY.garbageTruck
+}/ADD_GARBAGETRUCK_SUCCESS`;
+
+export const REQUEST_BEGIN = `${REDUX_KEY.garbageTruck}/REQUEST_BEGIN`;
+
+export const REQUEST_FALSE = `${REDUX_KEY.garbageTruck}/REQUEST_FALSE`;
+
+export const DELETE_GARBAGETRUCK = `${
+  REDUX_KEY.garbageTruck
+}/DELETE_GARBAGETRUCK`;
+export const DELETE_GARBAGETRUCK_SUCCESS = `${
+  REDUX_KEY.garbageTruck
+}/DELETE_GARAGE_SUCCESS`;
+
+export const EDIT_GARBAGETRUCK = `${REDUX_KEY.garbageTruck}/EDIT_GARBAGETRUCK`;
+export const EDIT_GARBAGETRUCK_SUCCESS = `${
+  REDUX_KEY.garbageTruck
+}/EDIT_GARBAGETRUCK_SUCCESS`;

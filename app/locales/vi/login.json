@@ -1,0 +1,21 @@
+{
+  "introduce": "Giới thiệu",
+  "guide": "Hướng dẫn",
+  "ordered": "Đặt mua",
+  "contact": "Liên hệ",
+  "title": "Chăm sóc khách hàng",
+  "subTitle1": "Hiệu quả, đơn giản, không cần cài đặt",
+  "subTitle2": "Thực hiện mọi lúc, mọi nơi",
+  "login": "Đăng nhập",
+  "labelUsername": "Tên đăng nhập",
+  "textRequireUsername": "Bạn chưa nhập Tên đăng nhập",
+  "labelPassword": "Mật khẩu",
+  "textRequirePassword": "Bạn chưa nhập Mật khẩu",
+  "forgotPassword": "Quên mật khẩu?",
+  "notAccount": "Bạn chưa có tài khoản?",
+  "order": "Đặt mua",
+  "msgLoginSuccess": "Đăng nhập thành công !",
+  "passwordRecovery": "Khôi phục mật khẩu",
+  "noteForgotPassword": "Bạn vui lòng điền đầy đủ Tên đăng nhập và Số điện thoại đã đăng ký để khôi phục mật khẩu",
+  "numberPhone": "Số điện thoại"
+}
